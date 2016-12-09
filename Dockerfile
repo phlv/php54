@@ -4,4 +4,3 @@ MAINTAINER zhangxuehui <zhangxuehui@shopex.cn>
 RUN yum install php-fpm54 -y 
 RUN yum install php-redis54 -y 
 RUN yum install Zend54 -y
-RUN yum install php-memcached54 -y
